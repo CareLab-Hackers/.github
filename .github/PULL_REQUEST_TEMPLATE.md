@@ -4,5 +4,5 @@ close CareLab-Hackers/hagimori_project#
 ## What
 - 
 
-## レビューして欲しいこと
+## レビューして欲しいこと (相談したいこと)
 - 
